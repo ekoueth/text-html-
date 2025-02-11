@@ -1,0 +1,7 @@
+body { 		/* définit  éléments généraux  */
+	font-family: Verdana, Arial, "sans serif";
+	font-size: 12px;		/*  taille standard */
+	color: #000000; 		/* couleur du texte  */
+	text-align: left;
+	margin: 0px;
+	}
